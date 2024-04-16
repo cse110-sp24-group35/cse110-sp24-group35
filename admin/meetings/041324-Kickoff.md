@@ -1,10 +1,10 @@
 # CSE 110 Team 35 Meeting #1 - Kickoff
 
 ## Overview
-**Team Number**: 35
+**Team Number / Name**: 35 / Coding Kittens
 **Meeting Type**: Regularly Scheduled
-**Location**: Online
-**Objective**: Going over the team expectations and 
+**Location**: Zoom
+**Objective**: Properly introduce everyone to the team and creating team unique items (rules, branding, etc.)
 
 ## Attendance
 
@@ -37,7 +37,7 @@ None
 - Group name: Coding Kittens
 - Mascot: Kitten with headphones on
 - Custom font: JetBrains Mono 
-- Logo: Cat
+- Logo: Cat color yellow & blue
 - Team Role Assignment: Allen & Tyler & Ethan - DevOps, Anny & Audrey & Shota & Vincent & Mitchell - Frontend, Jonathan & Ivor & Andrew: Backend
 
 ## Appendix
