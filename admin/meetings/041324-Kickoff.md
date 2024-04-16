@@ -5,6 +5,7 @@
 **Meeting Type**: Regularly Scheduled
 **Location**: Zoom
 **Objective**: Properly introduce everyone to the team and creating team unique items (rules, branding, etc.)
+**Time**: 1:00 PM - 2:30 PM, April 13, 2024
 
 ## Attendance
 
