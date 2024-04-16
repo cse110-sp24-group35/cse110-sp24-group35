@@ -28,11 +28,19 @@
 None
 
 ## Agenda
+
+### Unfinished Business from Last Meeting
+None
+
+### New Business to Cover
 [X] Determine rules & contract 
 [X] Group Branding
 [X] Team Page
 [X] Determine roles for the project
 [X] Record team introduction video
+
+### On Agenda but Not Discussed
+None
 
 ## Decisions
 - Group name: Coding Kittens
