@@ -59,5 +59,8 @@ None
   - Jonathan & Ivor & Andrew - Backend
     - Same as above ^
 
+## Meeting Finished At
+2:28 PM, April 13, 2024
+
 ## Appendix
 Transcript: [here](https://otter.ai/u/32VSXwLb9300RpFi0ig42MUUrp0)
