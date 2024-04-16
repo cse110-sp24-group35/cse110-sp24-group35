@@ -36,10 +36,20 @@ None
 
 ## Decisions
 - Group name: Coding Kittens
+  - Majority vote
 - Mascot: Kitten with headphones on
-- Custom font: JetBrains Mono 
+  - Majority vote
+- Custom font: JetBrains Mono
+  - Looks tech-ey and beautiful at same time
 - Logo: Cat color yellow & blue
-- Team Role Assignment: Allen & Tyler & Ethan - DevOps, Anny & Audrey & Shota & Vincent & Mitchell - Frontend, Jonathan & Ivor & Andrew: Backend
+  - Looks cute
+- Team Role Assignment
+  - Allen & Tyler & Ethan - DevOps
+    - Allen: Knowledgeable in DevOps compared to other members so I will be able to help a lot
+  - Anny & Audrey & Shota & Vincent & Mitchell - Frontend
+    - Without knowing specifics of the project yet, this is the tentative alignment based on member interest
+  - Jonathan & Ivor & Andrew - Backend
+    - Same as above ^
 
 ## Appendix
 Transcript: [here](https://otter.ai/u/32VSXwLb9300RpFi0ig42MUUrp0)
