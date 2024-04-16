@@ -1,28 +1,28 @@
 # CSE 110 Team 35 Meeting #1 - Kickoff
 
 ## Overview
-**Team Number / Name**: 35 / Coding Kittens
-**Meeting Type**: Regularly Scheduled
-**Location**: Zoom
-**Objective**: Properly introduce everyone to the team and creating team unique items (rules, branding, etc.)
-**Time**: 1:00 PM - 2:30 PM, April 13, 2024
+- **Team Number / Name**: 35 / Coding Kittens
+- **Meeting Type**: Regularly Scheduled
+- **Location**: Zoom
+- **Objective**: Properly introduce everyone to the team and creating team unique items (rules, branding, etc.)
+- **Time**: 1:00 PM - 2:30 PM, April 13, 2024
 
 ## Attendance
 
 ### Leader
-[X] Allen Zhang
-[X] Shota Yasuraoka
+- [X] Allen Zhang
+- [X] Shota Yasuraoka
 
 ### Member
-[X] Andrew Tan
-[X] Anny Zhao
-[X] Audrey Liang
-[X] Ethan Lee
-[X] Ivor Myers
-[X] Jonathan Zhang
-[X] Mitchell Bizzigotti
-[X] Tyler Khuc
-[X] Vincent McCloskey
+- [X] Andrew Tan
+- [X] Anny Zhao
+- [X] Audrey Liang
+- [X] Ethan Lee
+- [X] Ivor Myers
+- [X] Jonathan Zhang
+- [X] Mitchell Bizzigotti
+- [X] Tyler Khuc
+- [X] Vincent McCloskey
 
 ### Absences
 None
@@ -33,11 +33,11 @@ None
 None
 
 ### New Business to Cover
-[X] Determine rules & contract 
-[X] Group Branding
-[X] Team Page
-[X] Determine roles for the project
-[X] Record team introduction video
+- [X] Determine rules & contract 
+- [X] Group Branding
+- [X] Team Page
+- [X] Determine roles for the project
+- [X] Record team introduction video
 
 ### On Agenda but Not Discussed
 None
