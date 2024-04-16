@@ -39,6 +39,12 @@ Anny
 - I enjoy lifting, playing pickleball, and reading manga/webtoons
 - Fun fact: i’ve collected so many plushies that i dedicated bookshelf to it
 
+Ethan
+- https://github.com/ethanlee7102
+- 4th year CE major
+- I enjoy skateboarding and working out
+- Fun fact: I have been stung by a bee over 10 times
+
 Vincent
 - https://github.com/vinmoemac
 - 2nd year CS major
