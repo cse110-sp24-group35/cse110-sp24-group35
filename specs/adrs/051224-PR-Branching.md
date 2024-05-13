@@ -29,7 +29,7 @@ Managing clean and well-maintained source repository is very hard as an objectiv
     * Add new E2E and Unit tests to address the changes made
     * Manual testing has been performed according to the provided instructions
     * Code follows team's coding style, convention and standards
-    * Test coverage exceeds 80% overall (as reported by NYC library)
+    * Test coverage exceeds 90% overall (as reported by NYC library)
     * Documentation has been updated to reflect relevant changes
     * Codebase passes CodeQL (for vulnerability) and CodeClimate (for quality) checks
     * Reviewed and approved by team leader
