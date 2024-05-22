@@ -1,4 +1,4 @@
-# CSE 110 Team 35 Meeting #3 - Sprint Review & Retrospective
+# CSE 110 Team 35 Meeting #6 - Initial Pitch
 
 ## Overview
 - **Team Number**: 35
