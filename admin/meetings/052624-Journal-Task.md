@@ -1,4 +1,4 @@
-# CSE 110 Team 35 Meeting #3 - Create Journal Task
+# CSE 110 Team 35 Meeting #8 - Create Journal Task
 
 ## Overview
 - **Team Number**: 35
